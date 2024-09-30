@@ -6,4 +6,4 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5433/mitocode
     username: postgres
-    password: '${cipher}d2b8679a08a90f76419170b8ed56a82d21d1724370e4fbf83d75d939a80f17a2'
+    password: '{cipher}d2b8679a08a90f76419170b8ed56a82d21d1724370e4fbf83d75d939a80f17a2'
