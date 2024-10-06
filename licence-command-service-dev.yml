@@ -12,3 +12,4 @@ kafka:
   mitocode:
     server: localhost
     port: 9092
+    topicName: mitocode
