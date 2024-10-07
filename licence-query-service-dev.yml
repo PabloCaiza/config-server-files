@@ -1,0 +1,11 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://mitocode:mitocode@localhost:27017/mitocode?authSource=admin
+server:
+  port: 9023
+kafka:
+  mitocode:
+    server: localhost
+    port: 9092
+    topicName: mitocode
